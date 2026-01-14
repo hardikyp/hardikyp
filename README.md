@@ -3,7 +3,7 @@
 I am Hardik Patil (he/him), a Structural Engineering PhD student at the University of Michigan.
 
 Visit my webpage to learn more about me:
-[](www.hardikpatil.com)
+[www.hardikpatil.com](https://www.hardikpatil.com/)
 <!--
 **hardikyp/hardikyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
