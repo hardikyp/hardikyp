@@ -1,7 +1,6 @@
 # Hi there 👋
 
 I am Hardik Patil (he/him), a doctoral candidate in Civil (structures) Engineering and Scientific Computing at the University of Michigan.
-Pronouns: he/him/his
 
 ## How to reach me
 - My homepage: [www.hardikpatil.com](https://www.hardikpatil.com/)
