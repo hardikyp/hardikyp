@@ -8,5 +8,5 @@ I am Hardik Patil (he/him), a doctoral candidate in Civil (structures) Engineeri
 - Linkedin: [in/hardikypatil](https://www.linkedin.com/in/hardikypatil/)
 
 ## Recently published work
-- Patil, H.Y. and Filipov, E.T., 2026. Three-node torsional spring element formulation for the analysis of reconfigurable bar-linked structures. Journal of Applied Mechanics, 93(3), p.034502.
-- Patil, H.Y., Maki, K.J. and Filipov, E.T., 2024. Rapidly deployable hulls and on-demand tunable hydrodynamics with shape morphing curved crease origami. Journal of Fluids and Structures, 130, p.104176.
+- [Patil, H.Y. and Filipov, E.T., 2026. Three-node torsional spring element formulation for the analysis of reconfigurable bar-linked structures. Journal of Applied Mechanics, 93(3), p.034502.](https://doi.org/10.1115/1.4070821)
+- [Patil, H.Y., Maki, K.J. and Filipov, E.T., 2024. Rapidly deployable hulls and on-demand tunable hydrodynamics with shape morphing curved crease origami. Journal of Fluids and Structures, 130, p.104176.](https://doi.org/10.1016/j.jfluidstructs.2024.104176)
