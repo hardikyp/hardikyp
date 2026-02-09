@@ -1,20 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-I am Hardik Patil (he/him), a Structural Engineering PhD student at the University of Michigan.
+I am Hardik Patil (he/him), a doctoral candidate in Civil (structures) Engineering and Scientific Computing at the University of Michigan.
+Pronouns: he/him/his
 
-Visit my webpage to learn more about me:
-[www.hardikpatil.com](https://www.hardikpatil.com/)
-<!--
-**hardikyp/hardikyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to reach me
+- My homepage: [www.hardikpatil.com](https://www.hardikpatil.com/)
+- Email: hardikyp@umich.edu
+- Linkedin: [in/hardikypatil](https://www.linkedin.com/in/hardikypatil/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recently published work
+- Patil, H.Y. and Filipov, E.T., 2026. Three-node torsional spring element formulation for the analysis of reconfigurable bar-linked structures. Journal of Applied Mechanics, 93(3), p.034502.
+- Patil, H.Y., Maki, K.J. and Filipov, E.T., 2024. Rapidly deployable hulls and on-demand tunable hydrodynamics with shape morphing curved crease origami. Journal of Fluids and Structures, 130, p.104176.
