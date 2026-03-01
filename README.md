@@ -2,10 +2,10 @@
 
 I am Hardik Patil (he/him), a doctoral candidate in Civil (structures) Engineering and Scientific Computing at the University of Michigan, Ann Arbor. My research focuses on developing analysis and design tools for deployable and reconfigurable bar-linked structures and origami-inspired systems.
 
-## How to reach me
-- My homepage: [www.hardikpatil.com](https://www.hardikpatil.com/)
-- Email: hardikyp@umich.edu
-- Linkedin: [in/hardikypatil](https://www.linkedin.com/in/hardikypatil/)
+## My links
+
+My homepage: [www.hardikpatil.com](https://www.hardikpatil.com/)
+[Email](mailto:hardikyp@umich.edu) | [Linkedin](https://www.linkedin.com/in/hardikypatil/) | [ResearchGate](https://www.researchgate.net/profile/Hardik-Patil) | [ORCiD](https://orcid.org/0009-0006-9191-3738) | [Web of Science](https://www.webofscience.com/wos/author/record/OUJ-9207-2025)
 
 ## Recently published work
 - [Patil, H. Y. and Filipov, E. T. (2026) *Transforming static trusses into shape morphing systems using principles of quadrilateral linkages*. International Journal of Solids and Structures](https://doi.org/10.1115/1.4070821)
