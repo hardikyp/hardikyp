@@ -8,5 +8,6 @@ I am Hardik Patil (he/him), a doctoral candidate in Civil (structures) Engineeri
 - Linkedin: [in/hardikypatil](https://www.linkedin.com/in/hardikypatil/)
 
 ## Recently published work
+- [Patil, H. Y. and Filipov, E. T. (2026) *Transforming static trusses into shape morphing systems using principles of quadrilateral linkages*. International Journal of Solids and Structures](https://doi.org/10.1115/1.4070821)
 - [Patil, H. Y. and Filipov, E. T. (2026) *Three-Node Torsional Spring Element Formulation for the Analysis of Reconfigurable Bar-Linked Structures*. ASME J. Appl. Mech. March 2026; 93(3): 034502](https://doi.org/10.1115/1.4070821)
 - [Patil, H.Y., Maki, K.J. and Filipov, E.T. (2024) *Rapidly deployable hulls and on-demand tunable hydrodynamics with shape morphing curved crease origami*. Journal of Fluids and Structures, November 2024; Volume 130, p.104176](https://doi.org/10.1016/j.jfluidstructs.2024.104176)
