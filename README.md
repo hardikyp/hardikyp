@@ -6,7 +6,7 @@ I am Hardik Patil (he/him), a doctoral candidate in Civil (structures) Engineeri
 
 My homepage: [www.hardikpatil.com](https://www.hardikpatil.com/)
 
-[Email](mailto:hardikyp@umich.edu) | [Linkedin](https://www.linkedin.com/in/hardikypatil/) | [ResearchGate](https://www.researchgate.net/profile/Hardik-Patil) | [ORCiD](https://orcid.org/0009-0006-9191-3738) | [Web of Science](https://www.webofscience.com/wos/author/record/OUJ-9207-2025)
+[Email](mailto:hardikyp@umich.edu) | [Linkedin](https://www.linkedin.com/in/hardikypatil/) | [ResearchGate](https://www.researchgate.net/profile/Hardik-Patil) | [Google Scholar](https://scholar.google.com/citations?user=QxSZzs8AAAAJ&hl=en) | [ORCiD](https://orcid.org/0009-0006-9191-3738) | [Web of Science](https://www.webofscience.com/wos/author/record/OUJ-9207-2025)
 
 ## Recently published work
 - [Patil, H. Y. and Filipov, E. T. (2026) *Transforming static trusses into shape morphing systems using principles of quadrilateral linkages*. International Journal of Solids and Structures](https://doi.org/10.1115/1.4070821)
